@@ -1,2 +1,4 @@
 # design-system-2
-Created with CodeSandbox
+
+## Scaling Design Systems
+### Week 3 Assignment
