@@ -1,0 +1,17 @@
+.alert {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  max-width: 600px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(57, 57, 57);
+  border-radius: 0.3rem;
+}
+
+.alert p {
+  margin: 5px;
+  padding: 5px
+}
