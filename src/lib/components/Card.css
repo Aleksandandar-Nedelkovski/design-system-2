@@ -9,7 +9,16 @@
   border-radius: 0.3rem;
 }
 
-.card p, .card h3 {
+.card img {
+  border-radius: 4px 4px 0 0 ;
+}
+.card h3 {
   margin: 5px;
-  padding: 5px
+  padding: 5px;
+}
+
+.card p {
+  margin: 5px;
+  padding: 5px;
+  text-align: left;
 }

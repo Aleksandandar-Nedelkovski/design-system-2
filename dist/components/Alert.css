@@ -1,9 +1,7 @@
 .alert {
   display: flex;
   flex-direction: row;
-  margin: 5px;
-  align-items: center;
-  align-content: center;
+  margin: 0 auto;
   max-width: 600px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   border-radius: 5px;
@@ -11,17 +9,9 @@
   border-width: 1px;
   border-color: rgb(57, 57, 57);
   border-radius: 0.3rem;
-  background-color: #e5f5fdff;
 }
 
 .alert p {
   margin: 5px;
-  padding: 5px;
-  text-align: left;
-  color: rgb(3, 98, 139);
-}
-
-.info-icon {
-  padding: 5px;
-  margin: 5px;
+  padding: 5px
 }
